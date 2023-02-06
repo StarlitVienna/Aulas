@@ -4,7 +4,7 @@
 
 "O Segundo Congresso Continental foi uma convenção de delegados das Treze Colônias que se reuniram a partir de 10 de maio de 1775, em Filadélfia, Pensilvânia, logo após ter começado a luta na Guerra da Independência dos Estados Unidos."
 
-*Thomas Jefferson*
+Nome importante --> *Thomas Jefferson*
 
 
 [[2. Movimento separatista]]
