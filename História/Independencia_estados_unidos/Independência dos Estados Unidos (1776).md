@@ -1,1 +1,7 @@
-Conteúdo --> independência dos Estados Unidos
+
+Tópicos:
+- [[Antecedentes]]
+- [[2. Movimento separatista]]
+- [[Consequências]]
+
+
